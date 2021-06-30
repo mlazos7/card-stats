@@ -86,7 +86,7 @@ body {
   text-align: center;
   color: var(--heading-stats);
   margin: 1vh 0; }
-  .attribution .attribution a {
+  .attribution a {
     color: #3e52a3; }
 
 /* querys */
